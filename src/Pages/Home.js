@@ -53,7 +53,9 @@ const Home = () => {
 </div>
 </div>
 
-<div className='all2'>
+
+<div  className='all2'>
+<div>
 
 
   <h1 className='why'>Why Choose DigiMarket</h1>
@@ -62,6 +64,110 @@ const Home = () => {
 
 </p>
 </div>
+<div  className='you'>
+<div className='pp'>
+  <img  className='en' src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEgqL7p1E5_8vt3ZU0BbXkew2lzg_xNNRIVOzU55kvdXoqB1oG" alt="" />
+<h4 className='are' >We are Open Source</h4>
+<p className='lorem'>Lorem ipsum dummy text in print and website industry are usually use in these section</p>
+</div>
+
+
+<div className='pp1'>
+  <img  className='en' src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd_Bg7foE5NH54UN5tp6E11TPbbvYbo2Pjb-uYgaX2Zdcpp2_F" alt="" />
+<h4 className='are1' >Problem Solvers</h4>
+<p className='lorem'>Lorem ipsum dummy text in print and website industry are usually use in these section</p>
+</div>
+
+
+<div className='pp2'>
+  <img  className='en' src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9LvQ-0tCM_DfgavCV3H-NtIbjU0R6EaAfQ7M02dr824dUYZbg" alt="" />
+<h4 className='are2' >
+Regular Updates & Bug fixes</h4>
+<p className='lorem'>Lorem ipsum dummy text in print and website industry are usually use in these section</p>
+</div>
+
+
+
+</div>
+</div>
+
+<div>
+<div>
+
+  <h1 className='why'>Newly Added Items</h1>
+  <p className='any'>Anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on
+  <br/> <p className='the'>the Internet tend to repeat predefined necessary.</p>
+
+</p>
+</div>
+
+<div className='com'>
+
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-17.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-23.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-25.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-22.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-2.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-20.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-14.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-4-1.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-16.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-19.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-15.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-11.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-10.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-12.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-9.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-13.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-8.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-5.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-6.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-21.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/04/thumbnail.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-25.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-3.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-13.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-1.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-4-1.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-14.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-23.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-20.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-18.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-17.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-16.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-12.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-9.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-21.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-2.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-5.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-15.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-8.png" alt="" />
+<img src="https://themebing.com/wp/tijarah/wp-content/uploads/2020/02/th-10.png" alt="" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+</div>
+
+
 
 <div className='all3'>
 
@@ -78,7 +184,7 @@ const Home = () => {
 
 
 <div className='card33'>
-<div className='card12'>
+<div className='card1'>
 <img className='imgcard1' src="https://themebing.com/wp/tijarah/wp-content/uploads/2019/10/2836341-750x430.jpg" alt="" />
 <h3 className='banch'> Avtorai</h3>
 <p className='theme'>Photography WordPress Theme</p>
@@ -145,8 +251,34 @@ const Home = () => {
 
 
 
+<h4 className='shop1'>More Products</h4>
 </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <div className='oo'>
@@ -185,6 +317,75 @@ const Home = () => {
 </div>
 
 </div>
+
+
+
+
+
+
+<div  className='all2'>
+<div>
+
+
+  <h1 className='why'>DigiMarket Features</h1>
+  <p className='any'>Anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on
+  <br/> <p className='the'>the Internet tend to repeat predefined necessary.</p>
+
+</p>
+</div>
+<div  className='you'>
+<div className='pp'>
+  <img  className='en' src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEgqL7p1E5_8vt3ZU0BbXkew2lzg_xNNRIVOzU55kvdXoqB1oG" alt="" />
+<h4 className='are' >We are Open Source</h4>
+<p className='lorem'>Lorem ipsum dummy text in print and website industry are usually use in these section</p>
+</div>
+
+
+<div className='pp1'>
+  <img  className='en' src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd_Bg7foE5NH54UN5tp6E11TPbbvYbo2Pjb-uYgaX2Zdcpp2_F" alt="" />
+<h4 className='are1' >Problem Solvers</h4>
+<p className='lorem'>Lorem ipsum dummy text in print and website industry are usually use in these section</p>
+</div>
+
+
+<div className='pp2'>
+  <img  className='en' src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9LvQ-0tCM_DfgavCV3H-NtIbjU0R6EaAfQ7M02dr824dUYZbg" alt="" />
+<h4 className='are2' >
+Highly-Rated Support</h4>
+<p className='lorem'>Lorem ipsum dummy text in print and website industry are usually use in these section</p>
+</div>
+
+<div className='pp2'>
+  <img  className='en' src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9LvQ-0tCM_DfgavCV3H-NtIbjU0R6EaAfQ7M02dr824dUYZbg" alt="" />
+<h4 className='are2' >
+
+Feature-Rich Free & Pro Plugins
+</h4>
+<p className='lorem'>Lorem ipsum dummy text in print and website industry are usually use in these section</p>
+</div>
+<div className='pp2'>
+  <img  className='en' src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9LvQ-0tCM_DfgavCV3H-NtIbjU0R6EaAfQ7M02dr824dUYZbg" alt="" />
+<h4 className='are2' >
+Regular Updates & Bug fixes</h4>
+<p className='lorem'>Lorem ipsum dummy text in print and website industry are usually use in these section</p>
+</div>
+<div className='pp2'>
+  <img  className='en' src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9LvQ-0tCM_DfgavCV3H-NtIbjU0R6EaAfQ7M02dr824dUYZbg" alt="" />
+<h4 className='are2' >
+Extensions to step-up your game</h4>
+<p className='lorem'>Lorem ipsum dummy text in print and website industry are usually use in these section</p>
+</div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+
 
 
 <div>
@@ -235,8 +436,23 @@ const Home = () => {
 
 </div>
 
+<div>
+  <h1 className="ht">Join Us Today</h1>
+  <p className="ht1">Over 75,000 designers and developers trust the DigiMarket.</p>
+  <p className="con"></p>
+  </div>
+
+<p className='all1'>Join us Today</p>
+
+
+<div>
+  <p className='ri'>Copyright © 2023 Tijarah All Rights Reserved.</p>
+</div>
+
+
     </div>
 
+  
     
 };
 
